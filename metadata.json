@@ -1,0 +1,11 @@
+{
+  "name": "MydadApp 1.1",
+  "description": "تطبيق متطور لترتيل القرآن الكريم وتصحيح التلاوة باستخدام الذكاء الاصطناعي، مع دعم التلاوات البشرية والوضع الليلي.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
